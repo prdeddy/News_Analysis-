@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 
 
-cleaned_data = pd.read_csv('toi_data_cleaned.csv')
+cleaned_data = pd.read_feather('toi_data_cleaned.feather')
 st.header('Analysis of word usage across years in TOI(Times Of India) ')
 word_of_interest = st.text_input('Please enter the word/words')
 st.write('Note: Enter the root word as all the combinations of the words are selected and multiple words can be entered with a comma and no spaces eg. "game,sport"' )
