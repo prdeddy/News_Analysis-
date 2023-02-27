@@ -10,4 +10,4 @@ Secondly, the project can help identify the topics and issues that were prominen
 
 Overall, this project can serve as a valuable resource for anyone interested in studying the language and content of Indian newspapers and the changing trends over the past two decades.
 
-![app view](./Screenshot 2023-02-26 at 11.53.12 PM.png)
+![app view](./app_view.png)
