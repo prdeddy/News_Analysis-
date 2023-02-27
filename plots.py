@@ -6,7 +6,7 @@ import streamlit as st
 dfs = []
 
 # Loop over the feather files and read them into data frames
-for i in range(1, 7):
+for i in range(1, 8):
     filename = f'toi_data_cleaned_part{i}.feather'
     df = pd.read_feather(filename)
     dfs.append(df)
