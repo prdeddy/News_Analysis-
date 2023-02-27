@@ -8,6 +8,8 @@ The project is insightful and useful in several ways. Firstly, it provides a his
 
 Secondly, the project can help identify the topics and issues that were prominent in different years. By analyzing the frequency of words related to specific topics, one can gain insights into the social, political, and economic trends of the time.
 
-Overall, this project can serve as a valuable resource for anyone interested in studying the language and content of Indian newspapers and the changing trends over the past two decades.
+Overall, this project can serve as a valuable resource for anyone interested in studying the language and content of Indian newspapers and the changing trends over the past two decades. Link to the application 
+
+[Click to view the app](https://prdeddy-news-analysis--plots-x5zajs.streamlit.app/)
 
 ![app view](./app_view.png)
